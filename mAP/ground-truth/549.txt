@@ -1,0 +1,10 @@
+chair 183 173 228 235
+person 84 90 398 477
+person 229 5 640 475
+person 36 92 176 326
+person 150 111 183 176
+wine_glass 166 248 227 342
+wine_glass 262 251 339 360
+wine_glass 0 277 19 363
+person 2 106 78 225
+car 587 130 638 168

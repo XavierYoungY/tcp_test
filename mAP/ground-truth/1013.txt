@@ -1,0 +1,3 @@
+bowl 58 147 380 463
+banana 0 116 243 539
+diningtable 5 4 383 634

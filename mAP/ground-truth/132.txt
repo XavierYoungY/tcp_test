@@ -1,0 +1,5 @@
+cell_phone 265 182 298 209
+person 246 26 440 462
+bench 32 189 292 523
+chair 29 189 314 506
+pottedplant 416 5 640 519

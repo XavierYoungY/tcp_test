@@ -1,0 +1,10 @@
+diningtable 61 154 547 474
+person 4 1 383 256
+wine_glass 0 141 130 473
+wine_glass 469 129 640 480
+pizza 173 218 402 326
+wine_glass 241 23 326 125
+wine_glass 485 47 595 263
+person 376 2 595 160
+person 570 0 640 181
+chair 68 106 94 128

@@ -1,0 +1,7 @@
+traffic_light 284 33 307 85
+traffic_light 89 2 118 62
+person 43 100 115 261
+person 17 106 63 254
+car 459 163 500 206
+traffic_light 199 73 214 105
+traffic_light 307 28 329 87

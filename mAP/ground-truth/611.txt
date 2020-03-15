@@ -1,0 +1,1 @@
+parking_meter 231 41 412 228

@@ -1,0 +1,4 @@
+umbrella 69 0 583 425
+person 335 221 500 420
+person 45 231 72 258
+person 45 214 96 308

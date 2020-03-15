@@ -1,0 +1,4 @@
+cell_phone 224 164 337 228
+person 3 61 499 493
+wine_glass 0 89 56 428
+person 386 83 500 405

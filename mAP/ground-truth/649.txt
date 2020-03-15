@@ -1,0 +1,9 @@
+person 98 85 281 280
+person 43 142 133 264
+wine_glass 175 276 219 403
+wine_glass 127 275 171 407
+wine_glass 224 272 271 403
+cup 8 310 53 406
+person 341 174 393 283
+person 230 149 296 244
+diningtable 0 359 392 463

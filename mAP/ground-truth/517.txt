@@ -1,0 +1,12 @@
+pottedplant 260 325 328 434
+car 0 316 118 526
+clock 190 65 283 158
+car 118 305 147 334
+car 87 299 125 340
+pottedplant 245 507 310 561
+pottedplant 133 506 199 563
+pottedplant 192 459 274 501
+pottedplant 159 453 219 498
+pottedplant 256 432 323 497
+pottedplant 175 436 224 457
+car 3 298 35 313

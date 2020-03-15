@@ -1,0 +1,6 @@
+bicycle 235 555 374 639
+bicycle 12 531 298 640
+bicycle 148 575 222 640
+bicycle 115 522 174 575
+bicycle 0 511 59 626
+bicycle 58 556 95 575

@@ -1,0 +1,11 @@
+sofa 174 115 375 226
+chair 261 223 350 309
+sofa 58 143 191 220
+diningtable 1 309 375 490
+person 20 194 309 333
+knife 102 367 236 404
+cake 122 322 212 382
+chair 48 221 135 272
+pottedplant 132 25 210 157
+pottedplant 296 5 375 139
+pottedplant 227 35 255 70

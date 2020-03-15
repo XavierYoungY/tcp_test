@@ -1,0 +1,3 @@
+person 87 44 346 318
+skateboard 188 219 360 328
+traffic_light 0 183 8 210

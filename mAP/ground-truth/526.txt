@@ -1,0 +1,6 @@
+bottle 180 4 291 323
+cell_phone 1 280 88 417
+wine_glass 1 80 203 410
+pizza 317 145 628 262
+diningtable 2 2 640 480
+wine_glass 70 0 196 171

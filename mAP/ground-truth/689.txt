@@ -1,0 +1,6 @@
+tvmonitor 459 210 579 349
+person 36 62 177 480
+mouse 376 362 410 381
+keyboard 306 318 423 361
+tvmonitor 251 275 280 295
+tvmonitor 218 270 245 288

@@ -1,0 +1,6 @@
+tvmonitor 465 226 632 372
+refrigerator 333 121 433 214
+bird 248 116 287 161
+umbrella 181 200 196 232
+backpack 128 267 165 327
+chair 355 288 454 473

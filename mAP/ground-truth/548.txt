@@ -1,0 +1,8 @@
+aeroplane 164 172 504 276
+parking_meter 246 336 318 456
+parking_meter 160 342 185 375
+parking_meter 557 352 582 386
+parking_meter 224 345 239 366
+parking_meter 410 261 541 401
+parking_meter 540 351 555 369
+parking_meter 350 332 394 377

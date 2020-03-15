@@ -1,0 +1,4 @@
+cell_phone 274 344 359 390
+cell_phone 473 370 544 404
+person 306 40 640 473
+person 6 33 467 480

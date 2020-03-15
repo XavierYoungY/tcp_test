@@ -1,0 +1,7 @@
+refrigerator 0 2 500 632
+person 168 128 324 508
+bottle 272 517 329 625
+bottle 287 479 331 562
+bottle 276 245 314 348
+bottle 299 433 333 490
+bottle 296 204 339 326

@@ -1,0 +1,10 @@
+stop_sign 256 67 319 131
+car 116 220 254 269
+car 236 184 426 261
+parking_meter 274 181 293 206
+parking_meter 268 201 291 250
+parking_meter 234 220 279 272
+parking_meter 236 260 275 340
+parking_meter 102 413 207 624
+parking_meter 151 315 206 426
+parking_meter 314 188 322 205

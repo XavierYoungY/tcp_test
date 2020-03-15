@@ -1,0 +1,7 @@
+pottedplant 282 254 466 356
+bottle 586 324 602 363
+bottle 572 323 588 363
+bottle 96 362 136 425
+sink 187 394 362 426
+pottedplant 0 299 50 401
+toilet 446 326 546 426

@@ -1,0 +1,6 @@
+person 388 246 564 504
+person 511 231 623 477
+person 3 205 255 504
+baseball_glove 244 314 277 356
+sports_ball 256 319 274 338
+baseball_glove 399 422 412 451

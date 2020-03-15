@@ -1,0 +1,9 @@
+train 2 136 277 339
+person 482 107 578 437
+person 456 270 496 349
+traffic_light 413 191 424 201
+traffic_light 453 159 468 182
+backpack 515 153 620 275
+backpack 399 263 516 424
+clock 365 167 385 187
+bottle 493 178 537 244
